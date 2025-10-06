@@ -26,7 +26,8 @@ Mért értékek:
 |40k |	0,12  |
 |60k |	0,01  |
 
-*Grafikon:*  
+Grafikon:
 
-<img width="747" height="458" alt="image" src="https://github.com/user-attachments/assets/f16e5944-ef67-4e84-bf5b-8e8bfec5570b" />
----
+<img width="747" height="458" alt="image" src="https://github.com/user-attachments/assets/f16e5944-ef67-4e84-bf5b-8e8bfec5570b" />   
+Alúl áteresztő:   
+<img width="571" height="283" alt="image" src="https://github.com/user-attachments/assets/65d55876-5540-4022-98f5-0a11149be426" />  
