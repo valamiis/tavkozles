@@ -4,8 +4,8 @@ Szül. : 2006.11.03
 $R = 11Ω $    
 $C = 3μF $     
 
-*képletek:*  
-$fh = {1\over ( 2π * f * R * C)}$  
+*Számolás:*  
+$fh = {1\over ( 2π * f * R * C)}=$  
 ---   
 <img width="501" height="273" alt="image" src="https://github.com/user-attachments/assets/e2c512dc-48a8-4a0c-a65f-4669173fd6be" />   
 
@@ -16,7 +16,7 @@ Mért értékek:
 |2k	| 0,92  |
 |3k	| 0,85  |
 |4k	| 0,77  |
-|5k	| 0,7  |
+|**5k**	| **0,7**  |
 |6k	| 0,62  |
 |7k	| 0,56  |
 |8k	| 0,51  |
@@ -28,7 +28,8 @@ Mért értékek:
 
 Grafikon:  
 
-<img width="747" height="458" alt="image" src="https://github.com/user-attachments/assets/f16e5944-ef67-4e84-bf5b-8e8bfec5570b" />   
+<img width="731" height="435" alt="image" src="https://github.com/user-attachments/assets/71862b1f-aca2-4527-97c3-a875f633f440" />
+  
 
 Alúl áteresztő:     
 
@@ -53,4 +54,5 @@ Alúl áteresztő:
 
 **Grafikon:**  
 
-<img width="747" height="460" alt="image" src="https://github.com/user-attachments/assets/e78df4e8-b796-4df7-a5ff-620f82aeeeb6" />
+<img width="743" height="450" alt="image" src="https://github.com/user-attachments/assets/68e06ce9-2c32-4922-9a94-d8e7f8e6a708" />
+
