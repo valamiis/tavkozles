@@ -26,8 +26,31 @@ Mért értékek:
 |40k |	0,12  |
 |60k |	0,01  |
 
-Grafikon:
+Grafikon:  
 
 <img width="747" height="458" alt="image" src="https://github.com/user-attachments/assets/f16e5944-ef67-4e84-bf5b-8e8bfec5570b" />   
-Alúl áteresztő:   
-<img width="571" height="283" alt="image" src="https://github.com/user-attachments/assets/65d55876-5540-4022-98f5-0a11149be426" />  
+
+Alúl áteresztő:     
+
+<img width="571" height="283" alt="image" src="https://github.com/user-attachments/assets/65d55876-5540-4022-98f5-0a11149be426" />   
+
+**mért értékek:**
+|frekvencia (Hz)|Uki(V)|  
+|---------------|------|
+|60k| 0,996  |
+|40k	| 0,993  |
+|20k	| 0,972  |
+|10k	| 0,9  |
+|9k	| 0,88  |
+|8k	| 0,85  |
+|7k	| 0,82  |
+|6k	| 0,78  |
+|5k	| 0,72  |
+|4k |	0,63  |
+|3k |	0,53  |
+|2k |	0,38  |
+|1k |	0,2  |
+
+**Grafikon:**  
+
+<img width="747" height="460" alt="image" src="https://github.com/user-attachments/assets/e78df4e8-b796-4df7-a5ff-620f82aeeeb6" />
