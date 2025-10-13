@@ -5,7 +5,7 @@ $R = 11Ω $
 $C = 3μF $     
 
 *Számolás:*  
-$fh = {1\over ( 2π * f * R * C)}=$  
+$fh = {1\over ( 2π * R * C)}=$  
 ---   
 <img width="501" height="273" alt="image" src="https://github.com/user-attachments/assets/e2c512dc-48a8-4a0c-a65f-4669173fd6be" />   
 
