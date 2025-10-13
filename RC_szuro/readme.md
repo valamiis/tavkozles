@@ -31,7 +31,7 @@ Grafikon:
 <img width="731" height="435" alt="image" src="https://github.com/user-attachments/assets/71862b1f-aca2-4527-97c3-a875f633f440" />
   
 
-Alúl áteresztő:     
+felül áteresztő:     
 
 <img width="571" height="283" alt="image" src="https://github.com/user-attachments/assets/65d55876-5540-4022-98f5-0a11149be426" />   
 
